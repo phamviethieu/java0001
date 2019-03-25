@@ -5,4 +5,4 @@
  * @author pviet
  *
  */
-package learnjava;
+package qlns;
